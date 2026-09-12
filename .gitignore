@@ -1,0 +1,14 @@
+# Remix / Solidity compile output (regenerated on compile)
+contracts/artifacts/
+artifacts/
+cache/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
